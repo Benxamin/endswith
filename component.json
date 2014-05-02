@@ -1,0 +1,10 @@
+{
+  "name": "endswith",
+  "repository": "benxamin/endswith",
+  "description": "String suffix comparison component",
+  "version": "0.0.1",
+  "keywords": ["endswith", "ends", "trailing", "suffix", "plural"],
+  "dependencies": {},
+  "scripts": ["index.js"],
+  "license": "MIT"
+}
